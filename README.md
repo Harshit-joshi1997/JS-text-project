@@ -1,2 +1,3 @@
 # JS-text-project
-Temperature convertor
+Temperature convertor.<br>
+Celcius -> Fahrenheit & Fahreheit -> Celcius.
